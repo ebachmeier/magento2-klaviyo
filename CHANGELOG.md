@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### [Unreleased]
 
-### [4.0.810 - 2023-01-09
+### [4.0.10 - 2023-01-09
 ### Fixed
 - Fixed an issue where the `Source` property was not being sent with newsletter subscriptions to a list from Magento 2.
 
