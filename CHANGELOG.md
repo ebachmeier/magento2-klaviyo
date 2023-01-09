@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### [Unreleased]
 
+### [4.0.810 - 2023-01-09
+### Fixed
+- Fixed an issue where the `Source` property was not being sent with newsletter subscriptions to a list from Magento 2.
+
 ### [4.0.9] - 2023-01-03
 ### Changed
 - Updated default SMS consent language
@@ -202,7 +206,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CSP now uses report-only mode
 
 
-[Unreleased]: https://github.com/klaviyo/magento2-klaviyo/compare/4.0.9...HEAD
+[Unreleased]: https://github.com/klaviyo/magento2-klaviyo/compare/4.0.10...HEAD
+[4.0.10]: https://github.com/klaviyo/magento2-klaviyo/compare/4.0.9...4.0.10
 [4.0.9]: https://github.com/klaviyo/magento2-klaviyo/compare/4.0.8...4.0.9
 [4.0.8]: https://github.com/klaviyo/magento2-klaviyo/compare/4.0.7...4.0.8
 [4.0.7]: https://github.com/klaviyo/magento2-klaviyo/compare/4.0.6...4.0.7
